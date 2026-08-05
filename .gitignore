@@ -1,0 +1,10 @@
+\.idea/
+.pytest_cache/
+**/__pycache__/
+**/report/
+**/log/
+**/screenshot/
+*.pyc
+*.log
+ui_auto_frame/driver/*.exe
+*.zip
