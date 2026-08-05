@@ -65,7 +65,7 @@ pip install -r requirements.txt
 
 ---
 
-## 三、修改配置（按对方环境调整）
+## 三、修改配置
 
 ### UI：`ui_auto_frame/config/config.py`
 
