@@ -9,7 +9,7 @@
 ```
 mango_lantern_qa/
 ├── README.md                 # 本说明
-├── docs/                     # 测试计划、Bug 整理等文档
+├── docs/                     # 测试计划、Bug 整理、自动化框架测试结果等文档
 ├── ui_auto_frame/            # UI 自动化框架与用例
 └── api_auto_frame/           # 接口自动化框架与用例
 ```
