@@ -65,7 +65,7 @@ pip install -r requirements.txt
 
 ---
 
-## 三、修改配置
+## 三、修改配置（按对方环境调整）
 
 ### UI：`ui_auto_frame/config/config.py`
 
@@ -103,14 +103,3 @@ python run.py
 
 ---
 
-## 五、常见问题
-
-| 现象 | 处理 |
-|------|------|
-| `python` / `pip` 不是内部命令 | 安装 Python，并勾选加入 PATH |
-| `allure` 不是内部命令 | 安装 Allure 并配置环境变量 |
-| UI 启动浏览器失败 | 检查驱动版本是否匹配，驱动是否在 `driver/` |
-| 打开页面超时 / 接口连不上 | 先确认被测服务已启动，地址与 config 一致 |
-| 找不到模块（ModuleNotFoundError） | 回到对应目录重新 `pip install -r requirements.txt` |
-
----
