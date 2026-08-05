@@ -115,7 +115,3 @@ python run.py
 
 ---
 
-## 六、提交说明
-
-- 已排除 `report/`、`log/`、`__pycache__/`、浏览器驱动 exe 等运行产物
-- GitHub 可用后，在本目录 `git init` → `add` → `commit` → `push` 即可整仓提交
